@@ -1,83 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T08:49:37.069Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QthAA10Qej7uo4q0L5C0" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T05:30:29.390Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WQJKJZYVVuz6G-J-Wfxp" version="16.5.6" type="github">
   <diagram id="rcnr4m-1F-l9Hl6TlYCh" name="第 1 页">
-    <mxGraphModel dx="1030" dy="1653" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="1709" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-1" target="8nkH5ib2JXFqPAGusk-g-4">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=16;fontColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8nkH5ib2JXFqPAGusk-g-1" target="8nkH5ib2JXFqPAGusk-g-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-1" target="8nkH5ib2JXFqPAGusk-g-3">
+        <mxCell id="0melugRvl6NbU_k0rpH--4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-1" target="8nkH5ib2JXFqPAGusk-g-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-1" value="解析URL" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;opacity=80;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-1" value="解析URL" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;opacity=80;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="204" y="-1106" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-3" target="8nkH5ib2JXFqPAGusk-g-7">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8nkH5ib2JXFqPAGusk-g-3" target="8nkH5ib2JXFqPAGusk-g-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="-757" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0melugRvl6NbU_k0rpH--7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-3" target="0melugRvl6NbU_k0rpH--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-3" target="8nkH5ib2JXFqPAGusk-g-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-3" value="封装HTTP请求报文" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;opacity=80;strokeColor=#6c8ebf;fontSize=16;align=left;" parent="1" vertex="1">
+          <mxGeometry x="204" y="-903" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-3" value="封装HTTP请求报文" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;opacity=80;strokeColor=#6c8ebf;fontSize=16;align=left;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-1006" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-4" value="得到域名和请求参数" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-4" value="得到域名和请求参数" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="544" y="-1126" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-6" target="8nkH5ib2JXFqPAGusk-g-8">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8nkH5ib2JXFqPAGusk-g-6" target="8nkH5ib2JXFqPAGusk-g-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-6" target="8nkH5ib2JXFqPAGusk-g-11">
+        <mxCell id="0melugRvl6NbU_k0rpH--5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-6" target="8nkH5ib2JXFqPAGusk-g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-6" value="DNS域名解析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-896" width="120" height="60" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-6" value="DNS域名解析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="204" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-7" value="获得请求报文" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="544" y="-1026" width="80" height="100" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-7" value="获得请求报文" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="548" y="-923" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-8" value="获得域名对应的IP" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="544" y="-916" width="80" height="100" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-8" value="获得域名对应的IP" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="553" y="-1020" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-11" target="8nkH5ib2JXFqPAGusk-g-12">
+        <mxCell id="0melugRvl6NbU_k0rpH--10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-13" target="8nkH5ib2JXFqPAGusk-g-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-11" value="建立TCP连接" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-806" width="120" height="60" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-13" value="IP进行路由查找，进行路径规划" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="202" y="-566" width="238" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-12" target="8nkH5ib2JXFqPAGusk-g-13">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8nkH5ib2JXFqPAGusk-g-14" target="8nkH5ib2JXFqPAGusk-g-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-12" value="浏览器发送请求" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-706" width="120" height="60" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-14" value="ARP两两跳转" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="252" y="-461" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-13" target="8nkH5ib2JXFqPAGusk-g-14">
+        <mxCell id="0melugRvl6NbU_k0rpH--11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-15" target="8nkH5ib2JXFqPAGusk-g-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-13" value="IP规划路径" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-606" width="120" height="60" as="geometry" />
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-15" value="服务器相应请求" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="253" y="-358" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-14" target="8nkH5ib2JXFqPAGusk-g-15">
+        <mxCell id="8nkH5ib2JXFqPAGusk-g-17" value="浏览器显示页面" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="252" y="-229" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0melugRvl6NbU_k0rpH--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="0melugRvl6NbU_k0rpH--1" target="0melugRvl6NbU_k0rpH--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-14" value="ARP两两跳转" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-506" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-15" target="8nkH5ib2JXFqPAGusk-g-16">
+        <mxCell id="0melugRvl6NbU_k0rpH--8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="0melugRvl6NbU_k0rpH--1" target="0melugRvl6NbU_k0rpH--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-15" value="服务器相应请求" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-396" width="120" height="60" as="geometry" />
+        <mxCell id="0melugRvl6NbU_k0rpH--1" value="&lt;b style=&quot;font-size: 16px&quot;&gt;TCP建立连接&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="211" y="-801" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="8nkH5ib2JXFqPAGusk-g-16" target="8nkH5ib2JXFqPAGusk-g-17">
+        <mxCell id="0melugRvl6NbU_k0rpH--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="0melugRvl6NbU_k0rpH--2" target="8nkH5ib2JXFqPAGusk-g-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-16" value="断开TCP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-286" width="120" height="60" as="geometry" />
+        <mxCell id="0melugRvl6NbU_k0rpH--2" value="为实现可靠传输TCP将HTTP请求报文进行分割、打上序号和端口号" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="209" y="-685" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nkH5ib2JXFqPAGusk-g-17" value="浏览器显示页面" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-186" width="120" height="60" as="geometry" />
+        <mxCell id="0melugRvl6NbU_k0rpH--3" value="三次握手、四次挥手" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;fontFamily=Helvetica;fontSize=16;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="577" y="-820" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
