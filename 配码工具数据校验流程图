@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T12:10:24.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="18.0.8" etag="uF2rJxU1WPVgcss6UJtd" type="github"><diagram id="aculcVP94r2-EWBqehnR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-05T12:13:29.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="a3V-cljx_-o4evdPZEpe" version="18.0.8" type="github">
+  <diagram id="aculcVP94r2-EWBqehnR" name="第 1 页">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CDskiKAMduyxyj97JnST-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CDskiKAMduyxyj97JnST-1" target="CDskiKAMduyxyj97JnST-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CDskiKAMduyxyj97JnST-1" value="校验在数据库里面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CDskiKAMduyxyj97JnST-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CDskiKAMduyxyj97JnST-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDskiKAMduyxyj97JnST-2" value="校验sku在京东里面的末级类目在类目表里面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CDskiKAMduyxyj97JnST-4" value="这一步会把工业品的也处理了，加装建材的也给处理了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
