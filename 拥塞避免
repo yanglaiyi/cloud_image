@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T00:41:29.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.3.2" etag="qAWoq1yMH2qXVlfXA2nd" type="github"><diagram id="DXdnw_e8CTFFJUFOAQBQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-18T00:45:53.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="V9o7XlJmqd_jnUCKIbUa" version="20.3.2" type="github">
+  <diagram id="DXdnw_e8CTFFJUFOAQBQ" name="第 1 页">
+    <mxGraphModel dx="1609" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe979c463-c4fd-4752-ad5f-c66055a6f930%2FUntitled.png?table=block&amp;id=078af598-921b-432d-b2e2-40ee54fae57a&amp;spaceId=f20fb29f-64cb-480a-ad94-361b6a7da9a1&amp;width=2000&amp;userId=d758eb66-a18a-4e56-bff3-520904813076&amp;cache=v2;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="55" width="820.24" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-4" value="&lt;b&gt;快重传&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-6" value="&lt;b&gt;超时重传&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hgUKJlw9LeE6QreWM8UP-9" target="hgUKJlw9LeE6QreWM8UP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-9" value="&lt;b&gt;两个是等价的&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgUKJlw9LeE6QreWM8UP-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="hgUKJlw9LeE6QreWM8UP-9" target="hgUKJlw9LeE6QreWM8UP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="380" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
