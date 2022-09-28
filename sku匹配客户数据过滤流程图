@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T13:00:07.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ABYtFSt_JjHFt5O9pS_j" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T13:01:45.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Q731ucpMP5WdXWPsVNfn" version="20.2.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2248" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -25,10 +25,14 @@
         <mxCell id="-z-h-niZCi_XMB5CYd-S-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-z-h-niZCi_XMB5CYd-S-110" target="-z-h-niZCi_XMB5CYd-S-114">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6" y="109.67999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="130" />
+              <mxPoint x="60" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-z-h-niZCi_XMB5CYd-S-110" value="sku匹配客户类目" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="-230" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-z-h-niZCi_XMB5CYd-S-111" value="sku匹配配码类目" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="320" width="100" height="40" as="geometry" />
@@ -47,7 +51,7 @@
         </mxCell>
         <mxCell id="-z-h-niZCi_XMB5CYd-S-120" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" target="-z-h-niZCi_XMB5CYd-S-114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="60" as="sourcePoint" />
+            <mxPoint x="-10" y="130" as="sourcePoint" />
             <mxPoint x="-10" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-10" y="340" />
