@@ -37,13 +37,13 @@
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp3mLdf9G4zY9HYmWldy-15" target="Bp3mLdf9G4zY9HYmWldy-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-15" value="传递新增实体类，执行真正的新增方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-15" value="传递新增bo类，执行真正的新增方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp3mLdf9G4zY9HYmWldy-17" target="Bp3mLdf9G4zY9HYmWldy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-17" value="传递修改实体类，执行真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-17" value="传递修改bo类，执行真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-18" value="新增方法后置群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
