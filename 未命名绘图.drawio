@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pIQmo3R34BFtmkFE47-W-1" value="统一的新增修改bo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-1" value="统一的新增修改Req&lt;div&gt;制定不同组的校验规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -35,13 +35,13 @@
         <mxCell id="pIQmo3R34BFtmkFE47-W-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-10" target="pIQmo3R34BFtmkFE47-W-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-10" value="新增BO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-10" value="新增方法前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-11" target="pIQmo3R34BFtmkFE47-W-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-11" value="修改BO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-11" value="修改方法前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-12" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-1" target="pIQmo3R34BFtmkFE47-W-11">
@@ -60,19 +60,19 @@
         <mxCell id="pIQmo3R34BFtmkFE47-W-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-15" target="pIQmo3R34BFtmkFE47-W-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-15" value="新增方法前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-15" value="新增BO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-17" target="pIQmo3R34BFtmkFE47-W-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-17" value="修改方法前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-17" value="修改BO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="438" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-19" value="真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-19" value="新增方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-21" value="真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-21" value="新增方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="438" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
