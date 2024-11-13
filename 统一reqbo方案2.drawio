@@ -22,13 +22,13 @@
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp3mLdf9G4zY9HYmWldy-9" target="Bp3mLdf9G4zY9HYmWldy-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-9" value="新增方法前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-9" value="新增方法前置群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp3mLdf9G4zY9HYmWldy-11" target="Bp3mLdf9G4zY9HYmWldy-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-11" value="修改方法前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-11" value="修改方法前置群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-13" value="修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -37,22 +37,22 @@
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp3mLdf9G4zY9HYmWldy-15" target="Bp3mLdf9G4zY9HYmWldy-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-15" value="传递新增Bo，执行真正的新增方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-15" value="传递新增实体类，执行真正的新增方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bp3mLdf9G4zY9HYmWldy-17" target="Bp3mLdf9G4zY9HYmWldy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-17" value="传递修改Bo，执行真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-17" value="传递修改实体类，执行真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="438" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-18" value="新增方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-18" value="新增方法后置群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-19" value="修改方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-19" value="修改方法后置群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="438" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bp3mLdf9G4zY9HYmWldy-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Bp3mLdf9G4zY9HYmWldy-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;注意&lt;/h1&gt;&lt;div&gt;1. 其他方法想调用的时候，只需要传递相应的Bo就可以了&lt;/div&gt;&lt;div&gt;2.前置和后置是很有必要的，前置方法可以添加校验、填充所需要的属性等。&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="525" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Bp3mLdf9G4zY9HYmWldy-21" value="新增接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
