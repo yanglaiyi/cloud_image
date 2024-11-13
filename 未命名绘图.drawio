@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pIQmo3R34BFtmkFE47-W-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="403" width="645" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pIQmo3R34BFtmkFE47-W-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="220" width="645" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-1" value="统一的新增修改Req&lt;div&gt;制定不同组的校验规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,13 +66,13 @@
         <mxCell id="pIQmo3R34BFtmkFE47-W-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-15" target="pIQmo3R34BFtmkFE47-W-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-15" value="新增BO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-15" value="传递新增BO，执行真正的新增方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pIQmo3R34BFtmkFE47-W-17" target="pIQmo3R34BFtmkFE47-W-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-17" value="修改BO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-17" value="传递修改BO，执行真正的修改方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-19" value="新增方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -74,6 +80,15 @@
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-21" value="新增方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="438" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pIQmo3R34BFtmkFE47-W-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;对外&lt;/h1&gt;&lt;div&gt;1.对前端的请求和响应是统一的，只是内部用不同的BO对象去接收。&lt;/div&gt;&lt;div&gt;2.保证新增和修改的属性最好是一致的&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="525" width="180" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="pIQmo3R34BFtmkFE47-W-26" value="新增接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="168" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pIQmo3R34BFtmkFE47-W-29" value="修改接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="548" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
