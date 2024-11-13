@@ -85,10 +85,10 @@
           <mxGeometry x="70" y="525" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-26" value="新增接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="168" width="70" height="30" as="geometry" />
+          <mxGeometry x="600" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-29" value="修改接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="605" y="548" width="70" height="30" as="geometry" />
+          <mxGeometry x="612.5" y="533" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
