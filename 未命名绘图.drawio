@@ -81,7 +81,7 @@
         <mxCell id="pIQmo3R34BFtmkFE47-W-21" value="新增方法后置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="438" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pIQmo3R34BFtmkFE47-W-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;对外&lt;/h1&gt;&lt;div&gt;1.对前端的请求和响应是统一的，只是内部用不同的BO对象去接收。&lt;/div&gt;&lt;div&gt;2.保证新增和修改的属性最好是一致的&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pIQmo3R34BFtmkFE47-W-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;对外&lt;/h1&gt;&lt;div&gt;1.对前端的请求和响应是统一的，只是内部用不同的BO对象去接收。&lt;/div&gt;&lt;div&gt;2.保证新增和修改的属性一定要和entity的保持一致&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="525" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="pIQmo3R34BFtmkFE47-W-26" value="新增接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
